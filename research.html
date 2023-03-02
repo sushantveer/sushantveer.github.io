@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Research (To Be Updated Soon)</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Sushant Veer</div>
+<div class="menu-item"><a href="index.html">About</a></div>
+<div class="menu-item"><a href="https://scholar.google.com/citations?user=1FiIlQsAAAAJ&hl=en">Google&nbsp;Scholar</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="research.html" class="current">Projects</a></div>
+<div class="menu-item"><a href="publications.html">Publications</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Research (To Be Updated Soon)</h1>
+</div>
+<h2>Research Interests</h2>
+<p>My current research interests are targeted towards the motion planning of dynamic robots equipped with vision-based feedback. I am also interested in robust planning and control of dynamic robots under disturbances. I use tools from nonlinear and hybrid controls, motion planning, and machine learning.</p>
+<h2>Projects</h2>
+<ul>
+<li><p><b>Vision-Based Motion Planning with Generalization Guarantees:</b> <a href="http://sveer.mycpanel.princeton.edu/videos/Swing_Videos.m4v">[hardware demo]</a> <a href="https://youtu.be/03qq4sLU34o">[sim video]</a>  <a href="https://arxiv.org/abs/2002.12852">[representative paper]</a><br />
+Vision-based components in control pipelines are increasingly being deployed in various emerging applications, such as self-driving cars, autonomous package delivery, and home-assist robots. However, before these cyber-physical systems&#8201;&mdash;&#8201;that use learning-based visual feedback components (e.g., neural networks) in their control pipelines&#8201;&mdash;&#8201;are let loose among fellow humans, we need to provide safety or performance guarantees for them. My work addresses this challenge by providing generalization guarantees on learned vision-based motion planners, i.e., performance/safety guarantees on novel environements that were not used for training (but drawn from the same distribution as the training data). <br /> <br />
+This is a hardware demostration of the vision-based (neural network) motion planner designed with the learning approach in <a href="https://arxiv.org/abs/2002.12852">[Veer, Majumdar, CoRL 2020]</a>: </p>
+</li>
+</ul>
+<p align="center"><iframe width="720" height="540" src="http://sveer.mycpanel.princeton.edu/videos/Swing_Videos.m4v" frameborder="0" allowfullscreen></iframe>
+<p><br /></p>
+<ul>
+<li><p><b>Robust Motion Planning of Dynamic Robots Under Disturbances Using a Switched Systems Approach:</b> <a href="https://arxiv.org/abs/1809.02750">[representative paper]</a><br />
+Robots operating in the real world are expected to encounter a wide range of exogenous input signals due to contact or other types of interaction with a possibly time-varying, stochastic environment. Depending on the task, external signals may represent commands that need to be followed or disturbances that must be attenuated. A diverse collection of suitable primitive motions, and the capability to switch among them, can provide a sufficiently rich repertoire of behaviors for adapting to or compensating for such signals. In this project, we develop switched systems theory to generate complex goal-oriented robot motions that are robust to disturbances and capable of adapting to exogenous signals by coordinated switching among a collection of dynamical motion primitives. The theory developed within this framework is applied to limit-cycle gait bipedal robots:<br /></p>
+<ul>
+<li><p><b>Motion Planning of Limit-Cycle Bipedal Robots:</b> <a href="https://youtu.be/4UXEQBeffKI">[video]</a>  <a href="publications/papers/VeMoPo2017IROS_planning.pdf">[representative paper]</a><br />
+The limit-cycle bipedal walkers we study are high dimensional, nonlinear hybrid dynamical systems that posess underactuation. There is a dearth of computationally feasible motion plans with guarantees for such robots. Leveraging our switched systems theory, we devise provably stable and precise motion plans. The following video demonstrates the 3D biped sucessfully navigating an environment cluttered by obstacles using our method. </p>
+</li>
+<li><p><b>Human-Biped Cooperative Object Transportation:</b> <a href="https://www.youtube.com/watch?v=quytGItKGM4&amp;feature=youtu.be">[video]</a>  <a href="https://arxiv.org/abs/1810.00527">[representative paper]</a>
+<br />
+The objective of this project is to enable bipedal robots to cooperatively transport objects in conjunction with a human. The synergestic setting allows the robot control algorithm to leverage the decision making and environment mapping skills of the human agent while the human benefits by a reduction in payload. The focus of our work is on locmotion adaptation of the bipedal robot by switching among various limit-cycle gaits in response to the force applied by the human. Preliminary results of gait adaptation to a human for a 3D bipedal model can be seen in this video below in which the biped is adapting its speed and heading direction to match it with the human while only using the force. </p>
+</li>
+</ul>
+
+</li>
+</ul>
+<ul>
+<li><p><b>Assistive Device Development:</b> <a href="publications/papers/Spring-Balancing-MMT-Preprint-RG.pdf">[representative paper]</a><br />
+In my undergrad I spent my time working on the development of prosthetic and orthotic devices in India which culminated in an interest in legged locomotion. I worked on the design of a passive semi-flexion orthotic knee to provide support while allowing some degree of control for patients affected by polio. The other project, which resulted in my B. Tech thesis aimed at reduction of actuator requirements for active prosthetic and orthotic devices by gravity compensation with passive springs.</p>
+</li>
+</ul>
+<div id="footer">
+<div id="footer-text">
+Page generated 2023-03-02 10:41:55 PST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>

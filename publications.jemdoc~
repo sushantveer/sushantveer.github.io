@@ -1,0 +1,29 @@
+# jemdoc: menu{MENU}{stuff.html}
+= Publications
+
+== Journals
+. *S. Veer* and I. Poulakakis, "Ultimate Boundedness for Switched Systems with Multiple Equilibria Under Disturbances" under review in /IEEE Transactions on Automatic Control/.
+. *S. Veer*, Rakesh and I. Poulakakis, "[https://arxiv.org/abs/1712.03291 Input-to-State Stability of Periodic Orbits of Systems with Impulse Effects via Poincaré Analysis]" under review in /IEEE Transactions on Automatic Control/.
+. *S. Veer* and S. Sujatha, "[publications/papers/Spring-Balancing-MMT-Preprint-RG.pdf Approximate Spring Balancing of Linkages to Reduce Actuator Requirements]" in /Mechanism and Machine Theory/,  Vol. 86, pp. 108-124, April 2015.
+
+== Conferences
+. *S. Veer*, M. S. Motahar and I. Poulakakis, "[https://arxiv.org/abs/1703.07197 Generation of and Switching among Limit-Cycle Bipedal Walking Gaits]" in Proceedings of the /IEEE Conference on Decision and Control/, Melbourne, December 12 - December 15, 2017. 
+. *S. Veer*, M. S. Motahar and I. Poulakakis, "[publications/papers/VeMoPo2017IROS_supervisory.pdf Adaptation of Limit-Cycle Walkers for Collaborative Tasks: A Supervisory Switching Control Approach]" in Proceedings of the /IEEE\/RSJ International Conference on Intelligent Robots and Systems/, Vancouver, Canada, September 24 - September 28, 2017. 
+. *S. Veer*, M. S. Motahar and I. Poulakakis, "[publications/papers/VeMoPo2017IROS_planning.pdf Almost Driftless Navigation of 3D Limit-Cycle Walking Bipeds]" in Proceedings of the /IEEE\/RSJ International Conference on Intelligent Robots and Systems/, Vancouver, Canada, September 24 - September 28, 2017. 
+. M. S. Motahar, *S. Veer* and I. Poulakakis, "[publications/papers/MoVePo2017IROS.pdf Steering a 3D Limit-Cycle Biped for Collaboration with a Leader]" in Proceedings of the /IEEE\/RSJ International Conference on Intelligent Robots and Systems/, Vancouver, Canada, September 24 - September 28, 2017. 
+. M. S. Motahar, *S. Veer* and I. Poulakakis, "[publications/papers/MoVePo2016CDC.pdf Composing Limit Cycles for Motion Planning of 3D Bipedal Walkers]" in Proceedings of the /IEEE Conference on Decision and Control/, Las Vegas, December 12 - December 14, 2016
+. *S. Veer*, M. S. Motahar and I. Poulakakis, "[publications/papers/VeMoPo2016ACC.pdf Local Input-to-State Stability of Dynamic Walking Under Persistent External Excitation using Hybrid Zero Dynamics]" in Proceedings of the /American Control Conference/, Boston, July 6 - July 8, 2016. 
+. M. S. Motahar, *S. Veer*, J. Huang and I. Poulakakis, "[publications/papers/MoVeHuPo_IROS2015.pdf Integrating Dynamic Walking and Arm Impedance Control for Cooperative Transportation]" in Proceedings of the /IEEE\/RSJ International Conference on Intelligent Robots and Systems/, Hamburg, Germany, September 28 - October 2, 2015.
+. *S. Veer*, M. S. Motahar and I. Poulakakis, "[publications/papers/VeMoPo_IROS2015.pdf On the Adaptation of Dynamic Walking to Persistent External Forcing using Hybrid Zero Dynamics Control]" in Proceedings of the /IEEE\/RSJ International Conference on Intelligent Robots and Systems/, Hamburg, Germany, September 28 - October 2, 2015.
+
+== Posters and Presentations
+. *S. Veer (Presenter)*, M. S. Motahar and I. Poulakakis, “Physical Collaboration between Dynamically
+Walking Bipedal Robots and Humans,” in Research Day, UD Mechanical Engineering,
+Newark, Delaware, April 27, 2017. *(Won Best Poster Award in Robotics and Controls)*
+. *S. Veer (Presenter)*, M. S. Motahar and I. Poulakakis, "[publications/papers/VeMoPo2016RSS_abstract_final.pdf Integration of Dynamic Walking with Arm Impedance Control for Safe Physical Human-Biped Collaboration]", in Workshop: Challenges in Modeling and Control of Small-Scale Robots at Robotics: Science and Systems, Ann-Arbor, Michigan, June 18-22, 2016.
+. H. Chaudhari, *S. Veer (Presenter)* and S. Sujatha, "[publications/papers/ISPO2013-abstract-IITM.pdf Design of A Standing Wheelchair]", in Proceedings of the International Society of Prosthetics and Orthotics, World Congress, Hyderabad, India, February 4-7, 2013. *(Won the Yeongchi Wu International Education Award)*
+
+== Patents
+. *S. Veer*, M. Rohith, S. Sujatha, Semi-flexion Orthotic Knee, Indian patent 3088\\CHE\\2013 July 10, 2013. (Pending) *(Awarded Sri Chinmay Deodhar Prize)*
+. A. Prabhakar, S. Sujatha, N. Jacob, M. Rohith, V. Saragadam, *S. Veer*, Tactograph, Indian patent
+4091\\CHE\\2011 November 28, 2011. (Pending)
