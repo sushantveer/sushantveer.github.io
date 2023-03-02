@@ -1,45 +1,51 @@
 # jemdoc: menu{MENU}{stuff.html}
-= Publications (To Be Updated Soon)
+= Publications
 
 #== Preprints
 
-#. E. Gurgen, A. Majumdar and *S. Veer*, "Learning Provably Robust Motion Planners Using Funnel Libraries"
-#. A. Agarwal, *S. Veer*, A.Z. Ren, and A. Majumdar, "Stronger Generalization Guarantees for Robot Learning by Combining Generative Models and Real-World Data" (Under Review).
-
-#. *S. Veer* and A. Majumdar, "[https://arxiv.org/abs/2007.08601 CoNES: Convex Natural Evolutionary #Strategies]".
+#. E. Gurgen, A. Majumdar, *S. Veer*, "Learning Provably Robust Motion Planners Using Funnel Libraries"
+#. *S. Veer*, A. Majumdar, "[https://arxiv.org/abs/2007.08601 CoNES: Convex Natural Evolutionary #Strategies]".
 
 == Journals
-. *S. Veer* and I. Poulakakis, "[publications/papers/VePo2019TAC.pdf Switched Systems with Multiple Equilibria Under Disturbances: Boundedness and Practical Stability]" in /IEEE Transactions on Automatic Control/, Vol. 65, No. 6, pp. 2371-2386, June 2020.
-. *S. Veer*, Rakesh and I. Poulakakis, "[https://arxiv.org/abs/1712.03291 Input-to-State Stability of Periodic Orbits of Systems with Impulse Effects via Poincaré Analysis]" in /IEEE Transactions on Automatic Control/, Vol. 64, No. 11, pp. 4583-4598, November 2019.
-. *S. Veer* and S. Sujatha, "[publications/papers/Spring-Balancing-MMT-Preprint-RG.pdf Approximate Spring Balancing of Linkages to Reduce Actuator Requirements]" in /Mechanism and Machine Theory/,  Vol. 86, pp. 108-124, April 2015.
+. P. Chand, *S. Veer*, I. Poulakakis, "[https://arxiv.org/pdf/2109.13417.pdf Interactive Dynamic Walking: Learning Gait Switching Policies with Generalization Guarantees]" in IEEE Robotics and Automation Letters (RAL), 2022.
+. *S. Veer*, I. Poulakakis, "[publications/papers/VePo2019TAC.pdf Switched Systems with Multiple Equilibria Under Disturbances: Boundedness and Practical Stability]" in /IEEE Transactions on Automatic Control/, June 2020.
+. *S. Veer*, Rakesh, I. Poulakakis, "[https://arxiv.org/abs/1712.03291 Input-to-State Stability of Periodic Orbits of Systems with Impulse Effects via Poincaré Analysis]" in /IEEE Transactions on Automatic Control/, 2019.
+. *S. Veer*, S. Sujatha, "[publications/papers/Spring-Balancing-MMT-Preprint-RG.pdf Approximate Spring Balancing of Linkages to Reduce Actuator Requirements]" in /Mechanism and Machine Theory/, April 2015.
 
 == Conferences
-. \*A. Farid, \**S. Veer* and A. Majumdar, "[https://arxiv.org/abs/2106.13703 Task-Driven Out-of-Distribution Detection with Statistical Guarantees for Robot Learning]" in Proceedings of the /Conference on Robot Learning (CoRL)/, 2021 (Accepted). [https://youtu.be/3kzu9OUrHXE \[Video\]] [https://github.com/irom-lab/Task_Relevant_OOD_Detection \[Code\]]. \*(Equal Contribution) 
-. *S. Veer* and A. Majumdar, "[https://arxiv.org/abs/2002.12852 Probably Approximately Correct Vision-Based Planning using Motion Primitives]" in Proceedings of the /Conference on Robot Learning (CoRL)/, 2020. [https://youtu.be/03qq4sLU34o \[Video\]] [https://github.com/irom-lab/PAC-Vision-Planning \[Code\]].
-. A. Z. Ren, *S. Veer* and A. Majumdar, "[https://arxiv.org/abs/2008.01913 Generalization Guarantees for Multi-Modal Imitation Learning]" in Proceedings of the /Conference on Robot Learning (CoRL)/, 2020. [https://youtu.be/dfXyHvOTolc \[Video\]] [https://github.com/irom-lab/PAC-Imitation \[Code\]].
-. C. Allen-Blanchette, *S. Veer*, A. Majumdar, and N. Leonard, "[https://arxiv.org/abs/2010.12932 LagNetViP: A Lagrangian Neural Network for Video Frame Prediction]" in /AAAI Symposium on Physics-guided AI for Accelerating Scientific Discovery/, 2020. (Accepted)
-. P. Chand, *S. Veer* and I. Poulakakis, "[http://research.me.udel.edu/~poulakas/Publications/papers/ChVePoICRA2020.pdf An Adaptive Supervisory Control Approach to Dynamic Locomotion Under Parametric Uncertainty]" in Proceedings of the /IEEE International Conference on Robotics and Automation (ICRA)/, 2020.
-. *S. Veer* and I. Poulakakis, "[publications/papers/VePo2019CDC.pdf Robustness of Periodic Orbits of Impulsive Systems à la Poincaré]" in Proceedings of the /IEEE Conference on Decision and Control/ (CDC), 2019.
-. S. Kolathaya and *S. Veer*, "[publications/papers/KoVe2019IROS.pdf PD based Robust Quadratic Programs for Robotic Systems]" in Proceedings of the /IEEE\/RSJ International Conference on Intelligent Robots and Systems (IROS)/, 2019.
-. *S. Veer* and I. Poulakakis, "[https://arxiv.org/abs/1810.00527 Safe Adaptive Switching among Dynamical Movement Primitives: Application to 3D Limit-Cycle Walkers]" in Proceedings of the /IEEE International Conference on Robotics and Automation (ICRA)/, 2019. 
-. *S. Veer* and I. Poulakakis, "[publications/papers/VePo2019ACC.pdf Practical Stability of Switched Systems With Multiple Equilibria Under Disturbances]" in Proceedings of the /American Control Conference (ACC)/, 2019. 
-. *S. Veer*, M. S. Motahar and I. Poulakakis, "[https://arxiv.org/abs/1703.07197 Generation of and Switching among Limit-Cycle Bipedal Walking Gaits]" in Proceedings of the /IEEE Conference on Decision and Control (CDC)/, 2017. 
-. *S. Veer*, M. S. Motahar and I. Poulakakis, "[publications/papers/VeMoPo2017IROS_supervisory.pdf Adaptation of Limit-Cycle Walkers for Collaborative Tasks: A Supervisory Switching Control Approach]" in Proceedings of the /IEEE\/RSJ International Conference on Intelligent Robots and Systems (IROS)/, 2017. 
-. *S. Veer*, M. S. Motahar and I. Poulakakis, "[publications/papers/VeMoPo2017IROS_planning.pdf Almost Driftless Navigation of 3D Limit-Cycle Walking Bipeds]" in Proceedings of the /IEEE\/RSJ International Conference on Intelligent Robots and Systems (IROS)/, 2017. 
-. M. S. Motahar, *S. Veer* and I. Poulakakis, "[publications/papers/MoVePo2017IROS.pdf Steering a 3D Limit-Cycle Biped for Collaboration with a Leader]" in Proceedings of the /IEEE\/RSJ International Conference on Intelligent Robots and Systems (IROS)/, 2017. 
-. M. S. Motahar, *S. Veer* and I. Poulakakis, "[publications/papers/MoVePo2016CDC.pdf Composing Limit Cycles for Motion Planning of 3D Bipedal Walkers]" in Proceedings of the /IEEE Conference on Decision and Control (CDC)/, 2016
-. *S. Veer*, M. S. Motahar and I. Poulakakis, "[publications/papers/VeMoPo2016ACC.pdf Local Input-to-State Stability of Dynamic Walking Under Persistent External Excitation using Hybrid Zero Dynamics]" in Proceedings of the /American Control Conference (ACC)/, 2016. 
+. *S. Veer*, K. Leung, R. Cosner, Y. Chen, M. Pavone, "[https://arxiv.org/pdf/2212.03323.pdf Receding Horizon Planning with Rule Hierarchies for Autonomous Vehicles]" in Proceedings of the /IEEE International Conference on Robotics and Automation (ICRA)/, 2023.
+. Z. Zhong, D. Rempe, D. Xu, Y. Chen, *S. Veer*, T. Che, B. Ray, M. Pavone, "[https://arxiv.org/pdf/2210.17366.pdf Guided Conditional Diffusion for Controllable Traffic Simulation]" in Proceedings of the /IEEE International Conference on Robotics and Automation (ICRA)/, 2023.
+. K. Leung, *S. Veer*, E. Schmerling, M. Pavone, "[https://arxiv.org/pdf/2210.02761.pdf Learning Autonomous Vehicle Safety Concepts from Demonstrations]" in Proceedings of the American Control Conference (ACC), 2023.
+. A. Iqbal, *S. Veer*, Y. Gu, "[https://arxiv.org/pdf/2301.03097.pdf Real-Time Walking Pattern Generation of Quadrupedal Dynamic-Surface Locomotion based on a Linear Time-Varying Pendulum Model]" in Proceedings of the American Control Conference (ACC), 2023.
+. \*A. Farid, \**S. Veer*, K. Leung, B. Ivanovic, M. Pavone, "[https://arxiv.org/pdf/2207.12380.pdf Task-Relevant Failure Detection for Trajectory
+Predictors in Autonomous Vehicles]" in Proceedings of the /Conference on Robot Learning (CoRL)/, 2022. \*(Equal Contribution) 
+. A. Agarwal, *S. Veer*, A.Z. Ren, A. Majumdar, "[https://arxiv.org/pdf/2111.08761.pdf Stronger Generalization Guarantees for Robot Learning by Combining Generative Models and Real-World Data]" in Proceedings of the /IEEE International Conference on Robotics and Automation (ICRA)/, 2022.
+. \*A. Farid, \**S. Veer*, A. Majumdar, "[https://arxiv.org/abs/2106.13703 Task-Driven Out-of-Distribution Detection with Statistical Guarantees for Robot Learning]" in Proceedings of the /Conference on Robot Learning (CoRL)/, 2021. [https://youtu.be/3kzu9OUrHXE \[Video\]] [https://github.com/irom-lab/Task_Relevant_OOD_Detection \[Code\]]. \*(Equal Contribution) 
+. *S. Veer*, A. Majumdar, "[https://arxiv.org/abs/2002.12852 Probably Approximately Correct Vision-Based Planning using Motion Primitives]" in Proceedings of the /Conference on Robot Learning (CoRL)/, 2020. [https://youtu.be/03qq4sLU34o \[Video\]] [https://github.com/irom-lab/PAC-Vision-Planning \[Code\]].
+. A. Z. Ren, *S. Veer*, A. Majumdar, "[https://arxiv.org/abs/2008.01913 Generalization Guarantees for Multi-Modal Imitation Learning]" in Proceedings of the /Conference on Robot Learning (CoRL)/, 2020. [https://youtu.be/dfXyHvOTolc \[Video\]] [https://github.com/irom-lab/PAC-Imitation \[Code\]].
+. C. Allen-Blanchette, *S. Veer*, A. Majumdar, N. Leonard, "[https://arxiv.org/abs/2010.12932 LagNetViP: A Lagrangian Neural Network for Video Frame Prediction]" in /AAAI Symposium on Physics-guided AI for Accelerating Scientific Discovery/, 2020. (Accepted)
+. P. Chand, *S. Veer*, I. Poulakakis, "[http://research.me.udel.edu/~poulakas/Publications/papers/ChVePoICRA2020.pdf An Adaptive Supervisory Control Approach to Dynamic Locomotion Under Parametric Uncertainty]" in Proceedings of the /IEEE International Conference on Robotics and Automation (ICRA)/, 2020.
+. *S. Veer*, I. Poulakakis, "[publications/papers/VePo2019CDC.pdf Robustness of Periodic Orbits of Impulsive Systems à la Poincaré]" in Proceedings of the /IEEE Conference on Decision and Control/ (CDC), 2019.
+. S. Kolathaya, *S. Veer*, "[publications/papers/KoVe2019IROS.pdf PD based Robust Quadratic Programs for Robotic Systems]" in Proceedings of the /IEEE\/RSJ International Conference on Intelligent Robots and Systems (IROS)/, 2019.
+. *S. Veer*, I. Poulakakis, "[https://arxiv.org/abs/1810.00527 Safe Adaptive Switching among Dynamical Movement Primitives: Application to 3D Limit-Cycle Walkers]" in Proceedings of the /IEEE International Conference on Robotics and Automation (ICRA)/, 2019. 
+. *S. Veer*, I. Poulakakis, "[publications/papers/VePo2019ACC.pdf Practical Stability of Switched Systems With Multiple Equilibria Under Disturbances]" in Proceedings of the /American Control Conference (ACC)/, 2019. 
+. *S. Veer*, M. S. Motahar, I. Poulakakis, "[https://arxiv.org/abs/1703.07197 Generation of and Switching among Limit-Cycle Bipedal Walking Gaits]" in Proceedings of the /IEEE Conference on Decision and Control (CDC)/, 2017. 
+. *S. Veer*, M. S. Motahar, I. Poulakakis, "[publications/papers/VeMoPo2017IROS_supervisory.pdf Adaptation of Limit-Cycle Walkers for Collaborative Tasks: A Supervisory Switching Control Approach]" in Proceedings of the /IEEE\/RSJ International Conference on Intelligent Robots and Systems (IROS)/, 2017. 
+. *S. Veer*, M. S. Motahar, I. Poulakakis, "[publications/papers/VeMoPo2017IROS_planning.pdf Almost Driftless Navigation of 3D Limit-Cycle Walking Bipeds]" in Proceedings of the /IEEE\/RSJ International Conference on Intelligent Robots and Systems (IROS)/, 2017. 
+. M. S. Motahar, *S. Veer*, I. Poulakakis, "[publications/papers/MoVePo2017IROS.pdf Steering a 3D Limit-Cycle Biped for Collaboration with a Leader]" in Proceedings of the /IEEE\/RSJ International Conference on Intelligent Robots and Systems (IROS)/, 2017. 
+. M. S. Motahar, *S. Veer*, I. Poulakakis, "[publications/papers/MoVePo2016CDC.pdf Composing Limit Cycles for Motion Planning of 3D Bipedal Walkers]" in Proceedings of the /IEEE Conference on Decision and Control (CDC)/, 2016
+. *S. Veer*, M. S. Motahar, I. Poulakakis, "[publications/papers/VeMoPo2016ACC.pdf Local Input-to-State Stability of Dynamic Walking Under Persistent External Excitation using Hybrid Zero Dynamics]" in Proceedings of the /American Control Conference (ACC)/, 2016. 
 . M. S. Motahar, *S. Veer*, J. Huang and I. Poulakakis, "[publications/papers/MoVeHuPo_IROS2015.pdf Integrating Dynamic Walking and Arm Impedance Control for Cooperative Transportation]" in Proceedings of the /IEEE\/RSJ International Conference on Intelligent Robots and Systems (IROS)/, 2015.
-. *S. Veer*, M. S. Motahar and I. Poulakakis, "[publications/papers/VeMoPo_IROS2015.pdf On the Adaptation of Dynamic Walking to Persistent External Forcing using Hybrid Zero Dynamics Control]" in Proceedings of the /IEEE\/RSJ International Conference on Intelligent Robots and Systems (IROS)/, 2015.
+. *S. Veer*, M. S. Motahar, I. Poulakakis, "[publications/papers/VeMoPo_IROS2015.pdf On the Adaptation of Dynamic Walking to Persistent External Forcing using Hybrid Zero Dynamics Control]" in Proceedings of the /IEEE\/RSJ International Conference on Intelligent Robots and Systems (IROS)/, 2015.
 
 == Posters and Presentations
-. *S. Veer (Presenter)*, M. S. Motahar and I. Poulakakis, “Physical Collaboration between Dynamically
+. *S. Veer (Presenter)*, M. S. Motahar, and I. Poulakakis, “Physical Collaboration between Dynamically
 Walking Bipedal Robots and Humans,” in Research Day, UD Mechanical Engineering,
 Newark, Delaware, April 27, 2017. *(Won Best Poster Award in Robotics and Controls)*
-. *S. Veer (Presenter)*, M. S. Motahar and I. Poulakakis, "[publications/papers/VeMoPo2016RSS_abstract_final.pdf Integration of Dynamic Walking with Arm Impedance Control for Safe Physical Human-Biped Collaboration]", in Workshop: Challenges in Modeling and Control of Small-Scale Robots at Robotics: Science and Systems (RSS), Ann-Arbor, Michigan, June 18-22, 2016.
+. *S. Veer (Presenter)*, M. S. Motahar, and I. Poulakakis, "[publications/papers/VeMoPo2016RSS_abstract_final.pdf Integration of Dynamic Walking with Arm Impedance Control for Safe Physical Human-Biped Collaboration]", in Workshop: Challenges in Modeling and Control of Small-Scale Robots at Robotics: Science and Systems (RSS), Ann-Arbor, Michigan, June 18-22, 2016.
 . H. Chaudhari, *S. Veer (Presenter)* and S. Sujatha, "[publications/papers/ISPO2013-abstract-IITM.pdf Design of A Standing Wheelchair]", in Proceedings of the International Society of Prosthetics and Orthotics, World Congress, Hyderabad, India, February 4-7, 2013. *(Won the Yeongchi Wu International Education Award)*
 
-== Patents
-. M. Rohith, *S. Veer*, S. Sujatha, Semi-flexion Orthotic Knee, Indian patent 3088\\CHE\\2013 July 10, 2013. (Pending) *(Awarded Sri Chinmay Deodhar Prize)*
+#== Patents
+#. M. Rohith, *S. Veer*, S. Sujatha, Semi-flexion Orthotic Knee, Indian patent 3088\\CHE\\2013 July 10, 2013. (Pending) *(Awarded Sri Chinmay Deodhar Prize)*
 #. A. Prabhakar, S. Sujatha, N. Jacob, M. Rohith, V. Saragadam, *S. Veer*, Tactograph, Indian patent
 #4091\\CHE\\2011 November 28, 2011. (Pending)

@@ -4,7 +4,7 @@
 ~~~
 {}{img_left}{images/sveer.jpg}{alt text}{298px}{250px}{IMGLINKTARGET}
 *Senior Research Scientist*
-
+[https://nvr-avg.github.io/ Autonomous Vehicles Research Group]
 [https://www.nvidia.com/ NVIDIA Research]\n
 Santa Clara, CA, USA
 ~~~
@@ -18,15 +18,18 @@ Advisor: [http://research.me.udel.edu/~poulakas/ Prof. Ioannis Poulakakis]
 Advisor: [https://home.iitm.ac.in/r2d2/index.html Prof. Sujatha Srinivasan]\n
 #Thesis: [publications/theses/thesis_btech_iitm_sushant.pdf Spring Balancing of Prosthetic and Orthotic Devices]
 
-== Scholarships and Awards
-- University Doctoral Fellowship Award 2017-2018, University of Delaware
-- 2017 IROS-NSF Doctoral Consortium Travel Award
-- Best Poster Award in Robotics & Controls, Research Day 2017, Mechanical Engineering, UD
-- ACC 2016 Student Travel Award
-- University of Delaware Professional Development Award 2015
-- IEEE/RSJ IROS RAS Travel Award 2015
-- Yeongchi Wu International Education Award for, "Design of A Standing Wheelchair" at the International Society of Prosthetics and Orthotics, World Congress 2013.
-- Sri Chinmay Deodhar Prize for the most innovative Student Design Project 2012-2013 (IIT M).
-- Singapore Technologies Scholarship funded my undergraduate education.
+== Research Interests
+Broadly, my research interests lie in ensuring the safety of autonomous robotic systems. My current research has two major thrusts: (i) safe planning for autonomous vehicles in complex interactive scenarios, and (ii) failure and out-of-distribution detection approaches for run-time monitoring of AI modules in autonomous vehicle stacks.
+
+#== Scholarships and Awards
+#- University Doctoral Fellowship Award 2017-2018, University of Delaware
+#- 2017 IROS-NSF Doctoral Consortium Travel Award
+#- Best Poster Award in Robotics & Controls, Research Day 2017, Mechanical Engineering, UD
+#- ACC 2016 Student Travel Award
+#- University of Delaware Professional Development Award 2015
+#- IEEE/RSJ IROS RAS Travel Award 2015
+#- Yeongchi Wu International Education Award for, "Design of A Standing Wheelchair" at the International Society of Prosthetics and Orthotics, World Congress 2013.
+#- Sri Chinmay Deodhar Prize for the most innovative Student Design Project 2012-2013 (IIT M).
+#- Singapore Technologies Scholarship funded my undergraduate education.
 
 #Learn more from my [CV/Sushant_Veer_CV.pdf CV]...
