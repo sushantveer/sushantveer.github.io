@@ -19,7 +19,12 @@ Advisor: [https://home.iitm.ac.in/r2d2/index.html Prof. Sujatha Srinivasan]\n
 #Thesis: [publications/theses/thesis_btech_iitm_sushant.pdf Spring Balancing of Prosthetic and Orthotic Devices]
 
 == Research Interests
-Broadly, my research interests lie in ensuring the safety of autonomous robotic systems. My current research has two major thrusts: (i) safe planning for autonomous vehicles in complex interactive scenarios, and (ii) failure and out-of-distribution detection approaches for run-time monitoring of AI modules in autonomous vehicle stacks.
+Broadly, my research interests lie in ensuring the *safety of autonomous robotic systems*. My current research has two major thrusts:\n 
+. *Safe planning for autonomous vehicles (AVs):* Driving is a complex task that involves navigating interactive scenarios, anticipating and reacting to other traffic agents, and balancing safety and performance while adhering to traffic laws. To achieve a planning framework that can match human-like performance with enhanced safety capabilities, my work leverages tools from planning \& control, optimization, machine learning (ML), and logic. \n 
+Representative Publications: [https://arxiv.org/pdf/2212.03323.pdf \[Veer, Leung, et al., ICRA 2023\]], [https://arxiv.org/pdf/2210.02761.pdf \[Leung, Veer, at al., ACC 2023\]].
+. *Run-time monitoring and edge-case scenario detection of ML modules in AV stacks:* ML-based modules are typically trained to perform well on average over the training data, but they may struggle when faced with out-of-distribution (OOD) data and are susceptible to epistemic and aleatoric uncertainties. To mitigate the impact of these potential failures on AVs, my work focuses on early detection through the use of statistical and logic tools. \n
+Representative Publications: [https://arxiv.org/pdf/2207.12380.pdf \[\*Farid, \*Veer, et al., CoRL 2022\]], [https://arxiv.org/abs/2106.13703 \[\*Farid, \*Veer, at al., CoRL 2021\]] (\* Equal Contribution).
+
 
 == Recent News
 *January, 2023*~~~~~| 3 papers accepted to [https://www.icra2023.org/ ICRA 2023]; 2 papers and a [https://sites.google.com/umich.edu/safeperceptionbasedcontrol/home workshop] accepted to [https://acc2023.a2c2.org/ ACC 2023] \n
